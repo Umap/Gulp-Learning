@@ -72,3 +72,4 @@ gulp.task('watch', function() {
 // Default Task
 gulp.task('default', ['sass', 'scripts', 'watch', 'lint']);
 //gulp.task('default', ['sass', 'lint', 'watch']);
+//gulp.task('default', ['sass', 'lint', 'watch']);
